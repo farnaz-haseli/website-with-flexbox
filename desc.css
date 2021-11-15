@@ -1,0 +1,65 @@
+.nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    background-color: black;
+      border-radius: 20px;
+}
+.nav li{
+    display:inline;
+    margin: 21px;
+  
+}
+.nav a{
+    display:inline-block;
+    padding:20px;
+    font-size: 23px;
+    text-decoration:none ;
+    color:white;
+}
+
+li a:hover {
+    background-color: rgba(196, 160, 187, 0.61);
+    color:rgb(204, 200, 194);
+}
+a{
+    text-decoration: none;
+}
+section{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 35px;
+}
+
+section h1,section p{
+    margin: 25px;
+}
+table{
+    margin: auto;
+    padding: auto;
+     border-spacing:99px;
+}
+
+table td{
+    padding:83px;
+    text-align: center;
+    background-color: rgb(117, 116, 116);
+    border-radius: 5px;
+}
+
+img{
+    width: 85px;
+    height: 85px;
+}
+button{
+    background-color: tomato;
+    border-radius: 15px;
+    margin: 1px;
+    padding: 9px;
+    width: 78px;
+}
+
+
